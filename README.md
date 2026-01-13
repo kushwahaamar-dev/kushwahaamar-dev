@@ -1,34 +1,72 @@
-# Hey, I'm Amar. 👋
+<div align="center">
+  <a href="https://github.com/kushwahaamar-dev">
+    <img src="assets/hero-banner.png" alt="Amar Kushwaha - Engineering Intelligence" width="100%" />
+  </a>
+</div>
 
-I build AI systems that actually work.
+<div align="center">
+  <br />
+  <code> BCI RESEARCHER </code> 
+  <span style="margin: 0 10px;">•</span>
+  <code> AI ENGINEER </code> 
+  <span style="margin: 0 10px;">•</span>
+  <code> FULL STACK </code>
+  <br /><br />
+</div>
 
-Currently, I'm a CS student at **Texas Tech**, but I spend most of my time either training models or trying to figure out how to read brain signals (literally—I'm researching **Brain-Computer Interfaces** to see how cognitive effort affects seizure suppression).
+<div align="center">
+  <blockquote>
+    "Bridging biological intelligence with artificial systems."
+  </blockquote>
+</div>
 
-When I'm not in the lab, I'm probably winning hackathons or shipping code.
+<br />
 
-### What I'm working on
+### Engineering Metrics
 
-Here’s the cool stuff I’ve been building recently:
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=kushwahaamar-dev&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&text_color=adadad&icon_color=00d9ff&bg_color=0d1117&hide=stars" />
+      </td>
+      <td valign="top" width="50%">
+         <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushwahaamar-dev&layout=donut&theme=transparent&hide_border=true&title_color=00d9ff&text_color=adadad&bg_color=0d1117" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🧠 **[TruthBlink](https://github.com/kushwahaamar-dev/truth)**: A bridge between Web2 social media and Web3 prediction markets. You can basically place USDC bets on viral tweets. It uses Solana Blinks and Gemini 1.5 Flash.
-- 📂 **[Torpe Hitachi Classifier](https://github.com/kushwahaamar-dev/doc-classifier)**: Enterprise-grade document classification using Gemini 2.0 Flash. It’s got a full RAG pipeline and uses Solana for an immutable audit trail.
-- 📊 **[LogX+ AI](https://github.com/kushwahaamar-dev/logx-)**: An AI platform that turns raw logs into structured insights. It does client-side RAG right in the browser.
-- 🌊 **[BCI Signal Analysis](https://github.com/kushwahaamar-dev/bci_eeg_mfdfa)**: My research work. A Python pipeline for EEG motor imagery analysis using some heavy math (MFDFA).
+### The Stack
 
-### What I speak
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,pytorch,tensorflow,rust,solana,git,docker,c,bash&theme=dark" />
+  </a>
+</div>
 
-I speak fluent **Python**, **TypeScript**, and "Machine Learning Researcher".
+<br />
 
-**My Stack:**
-`Python` `TypeScript` `React` `Gemini API` `Solana` `Next.js` `PyTorch` `Scikit-learn`
+### Contribution Activity
 
-### Let's chat
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushwahaamar-dev/kushwahaamar-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushwahaamar-dev/kushwahaamar-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kushwahaamar-dev/kushwahaamar-dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-I'm always down to talk about AI, crypto, or neurotech.
+<br />
 
-- [x.com/amarkushwaha__](https://x.com/amarkushwaha__)
-- [linkedin.com/in/kushwaha-amar](https://www.linkedin.com/in/kushwaha-amar)
-- [amkushwa@ttu.edu](mailto:amkushwa@ttu.edu)
-
----
-*PS: Yes, this README is casual. I prefer building things over writing formal bios.*
+<div align="center">
+  <a href="https://x.com/amarkushwaha__">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/kushwaha-amar">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amkushwa@ttu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
